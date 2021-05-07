@@ -1,0 +1,32 @@
+label {
+  display: inline-block;
+  max-width: 100%;
+  margin-bottom: 5px;
+  font-weight: 500;
+}
+
+#login_text {
+  font-weight: 100;
+  margin-bottom: 15px;
+  padding: 6px 0;
+  border-bottom: 1px solid #ccc;
+  color: #058;
+}
+
+body {
+  font-family: "Open Sans", Verdana, Tahoma, serif;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+#client_img {
+  margin-top: 70px;
+}
+.form-signin {
+  padding: 50px;
+}
+.error {
+  color: red;
+}

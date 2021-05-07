@@ -1,0 +1,56 @@
+table {
+  width: 50%;
+  background-color: transparent;
+}
+
+td {
+  width: 50%;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  text-align: center;
+}
+
+select {
+  padding: 6px;
+  height: 34px;
+  width: 100%;
+  background-color: transparent;
+  border: none;
+}
+
+input {
+  padding: 6px;
+  height: 34px;
+  width: 100%;
+  background-color: transparent;
+  border: none;
+}
+
+input:focus {
+  outline: none;
+}
+
+select:focus {
+  outline: none;
+}
+
+#back:focus {
+  outline: none;
+}
+
+#save:focus {
+  outline: none;
+}
+
+#reset:focus {
+  outline: none;
+}
